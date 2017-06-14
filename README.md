@@ -35,5 +35,4 @@ Confira a documentação disponível até o momento no repositório provisório 
 
 Desenvolvimento
 ---------------------
--   [Rodolfo Peixoto](http://www.rodolfopeixoto.com.br/)
->>>>>>> 77c11b327c5476ea08abd3a2b9ed7d5c39f050ae
+-   [Rodolfo Peixoto](http://www.rodolfopeixoto.com.br/) 
